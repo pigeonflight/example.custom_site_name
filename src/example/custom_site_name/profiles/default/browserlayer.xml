@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layers>
+  <layer
+      name="example.custom_site_name"
+      interface="example.custom_site_name.interfaces.IExampleCustomSiteNameLayer"
+      />
+</layers>
